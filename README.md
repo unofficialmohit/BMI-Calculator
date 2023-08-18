@@ -12,3 +12,12 @@ Screenshot of the Project:
 ![image](https://github.com/unofficialmohit/BMI-Calculator/assets/123811704/8ffa14d3-d224-4ab4-b8f4-43ce0ad585ff)
 
 ![image](https://github.com/unofficialmohit/BMI-Calculator/assets/123811704/d2b399c5-758a-4c58-a6cf-9236152aff31)
+
+
+
+
+
+Database Schema : 
+
+
+![image](https://github.com/unofficialmohit/BMI-Calculator/assets/123811704/50ac01f5-3339-4970-945a-0523a5ccd615)
